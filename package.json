@@ -1,0 +1,13 @@
+{
+    "name": "com.manwhocanfly.fixpointunity",
+    "version": "0.3.0",
+    "displayName": "FixPointUnity",
+    "description": "A fast multi-precision fixed-point library for Unity!",
+    "unity": "2021.3",
+    "license": "MIT",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/manwhocanfly/FixPointUnity.git"
+    },
+    "documentationUrl": "https://github.com/manwhocanfly/FixPointUnity"
+}
